@@ -1,5 +1,4 @@
 server:
   port: ${PORT:9999}
 message: Consumer Configuration. Server is alive for PROD profile!
-max_login_fail: 3
-    domain_mail_enabled: Outlook,Gmail,DigitalHouse
+
