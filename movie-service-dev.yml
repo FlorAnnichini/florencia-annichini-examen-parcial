@@ -15,10 +15,5 @@ spring:
     hibernate:
       ddl-auto: create-drop
 
-info:
-  app:
-    name: movie-service
-    description: Movie Service
-    version: 1.0.0
      
 
